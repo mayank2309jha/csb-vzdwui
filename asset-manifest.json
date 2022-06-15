@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mayank2309jha.github.io/csb-vzdwui/static/css/main.aec776b2.chunk.css",
+    "main.js": "https://mayank2309jha.github.io/csb-vzdwui/static/js/main.e637607b.chunk.js",
+    "main.js.map": "https://mayank2309jha.github.io/csb-vzdwui/static/js/main.e637607b.chunk.js.map",
+    "runtime-main.js": "https://mayank2309jha.github.io/csb-vzdwui/static/js/runtime-main.5705e806.js",
+    "runtime-main.js.map": "https://mayank2309jha.github.io/csb-vzdwui/static/js/runtime-main.5705e806.js.map",
+    "static/js/2.4677ebdc.chunk.js": "https://mayank2309jha.github.io/csb-vzdwui/static/js/2.4677ebdc.chunk.js",
+    "static/js/2.4677ebdc.chunk.js.map": "https://mayank2309jha.github.io/csb-vzdwui/static/js/2.4677ebdc.chunk.js.map",
+    "index.html": "https://mayank2309jha.github.io/csb-vzdwui/index.html",
+    "static/css/main.aec776b2.chunk.css.map": "https://mayank2309jha.github.io/csb-vzdwui/static/css/main.aec776b2.chunk.css.map",
+    "static/js/2.4677ebdc.chunk.js.LICENSE.txt": "https://mayank2309jha.github.io/csb-vzdwui/static/js/2.4677ebdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5705e806.js",
+    "static/js/2.4677ebdc.chunk.js",
+    "static/css/main.aec776b2.chunk.css",
+    "static/js/main.e637607b.chunk.js"
+  ]
+}
